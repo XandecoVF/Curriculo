@@ -4,6 +4,7 @@ body {
     padding: 0;
     background: linear-gradient(to bottom, #3a7bd5, #3a3b73);
     color: #333;
+    background-image: url('https://marcellocavalcanti.com.br/wp-content/uploads/2018/11/5B2A0092.jpg');
 }
 
 .macaco {
@@ -11,6 +12,7 @@ body {
     padding: 30px;
     background-color: #435ba8;
     color: white;
+    background-image: url('https://marcellocavalcanti.com.br/wp-content/uploads/2018/11/5B2A0092.jpg');
 }
 
 .nav {
