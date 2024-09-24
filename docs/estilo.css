@@ -1,0 +1,106 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #3a7bd5, #3a3b73);
+    color: #333;
+}
+
+.macaco {
+    text-align: center;
+    padding: 30px;
+    background-color: #435ba8;
+    color: white;
+}
+
+.nav {
+    background-color: #333;
+    padding: 10px 0;
+}
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.nav ul li a:hover {
+    color: #3a7bd5;
+}
+
+.orangotango {
+    display: flex;
+    margin: 20px;
+}
+
+.orangotango section {
+    flex: 1;
+    margin: 20px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 5px black;
+}
+
+.perfil {
+    text-align: center;
+    background: linear-gradient(to bottom, #3a7bd5, #3a3b73);
+    color: white;
+    padding: 30px;
+    border-radius: 10px 0 0 10px;
+    box-shadow: 0 4px 8px black;
+}
+
+.perfil img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.perfil h1 {
+    margin: 0;
+}
+
+.profile p {
+    margin: 5px 0;
+}
+
+.sobre-mim {
+    flex: 2;
+    padding: 20px;
+    background-color: white;
+    border-radius: 0 10px 10px 0;
+    box-shadow: 0 4px 8px black;
+}
+
+.sobre-mim h2 {
+    color: #3a7bd5;
+}
+
+.macaca {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.macaca div {
+    width: 45%;
+    background-color: #f1f1f1b2;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 2px black;
+}
